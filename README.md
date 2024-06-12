@@ -1,0 +1,2 @@
+# NextjsDockerPJ
+NextjsとDockerを利用した静的サイトの実装
