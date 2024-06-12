@@ -1,2 +1,5 @@
 export {default as Header} from './header/Header'
+export {default as HumburgerMenu} from './header/HumburgerMenu'
+export {default as Nav} from './header/Nav'
+export {default as NavLink} from './header/NavLink'
 export {default as Footer} from './footer/Footer'
