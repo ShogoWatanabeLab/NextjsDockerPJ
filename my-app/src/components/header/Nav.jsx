@@ -1,4 +1,3 @@
-import Link from "next/link";
 import { NavLink } from "../index";
 
 const Nav = (props) => {

@@ -23,13 +23,13 @@ html, body {
 
 /* リンクのスタイル */
 a {
-  color: #0070f3;
   text-decoration: none;
 }
 
-a:hover {
+/* a:hover {
+  color: #0070f3;
   text-decoration: underline;
-}
+} */
 
 /* メインコンテンツのスタイル */
 .main-content {
@@ -54,16 +54,16 @@ h2 {
 }
 
 /* 段落のスタイル */
-p {
+/* p {
   margin-bottom: 15px;
   line-height: 1.8;
-}
+} */
 
 /* ユーティリティクラス */
 .text-center {
   text-align: center;
 }
 
-.mt-20 {
+/* .mt-20 {
   margin-top: 20px;
-}
+} */
