@@ -16,7 +16,7 @@ header {
   display: none;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 850px) {
   header nav {
     display: none;
   }
