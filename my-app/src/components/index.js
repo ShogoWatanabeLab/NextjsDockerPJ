@@ -1,3 +1,4 @@
+export {default as MainVisual} from './main/MainVisual'
 export {default as Header} from './header/Header'
 export {default as HumburgerMenu} from './header/HumburgerMenu'
 export {default as Nav} from './header/Nav'
