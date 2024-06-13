@@ -2,7 +2,10 @@ import { MainVisual } from "../components/index";
 
 const Home = () => {
   return (
-  <MainVisual/>
+    <div className="container mx-auto p-8">
+      <MainVisual/>
+      <MainVisual/>
+    </div>
   )
 }
 
