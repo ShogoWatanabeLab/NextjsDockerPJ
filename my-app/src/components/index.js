@@ -1,4 +1,5 @@
 export {default as MainVisual} from './main/MainVisual'
+export {default as AboutMe} from './main/AboutMe'
 export {default as SectionTitle} from './main/SectionTitle'
 export {default as SectionParagraph} from './main/SectionParagraph'
 export {default as Header} from './header/Header'
