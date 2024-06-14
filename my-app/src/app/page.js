@@ -1,4 +1,4 @@
-import { MainVisual, AboutMe, News, Project } from "../components/index";
+import { MainVisual, AboutMe, News, Project, Blog } from "../components/index";
 
 const Home = () => {
   return (
@@ -7,6 +7,7 @@ const Home = () => {
       <AboutMe/>
       <News/>
       <Project/>
+      <Blog/>
     </div>
   )
 }
