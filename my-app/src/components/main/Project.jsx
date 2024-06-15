@@ -4,7 +4,7 @@ const Project = () => {
   return (
     <>
       {/* Project */}
-      <section className="mb-16 bg-gray-100 p-8">
+      <section className="h-fit mb-16 bg-gray-100 p-8">
           <SectionTitle text={"Project"} style={""} />
           <SectionParagraph text={"最新のプロジェクトを紹介"} style={""}/>
           <div className="flex justify-between">

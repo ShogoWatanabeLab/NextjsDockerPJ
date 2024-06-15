@@ -1,7 +1,7 @@
 const NewsRow = (props) => {
   return (
-    <tr>
-      <td className="p-2 text-center">{props.date}</td>
+    <tr className="border-y-2">
+      <td className="p-4 text-center">{props.date}</td>
       <td>
         <span className="p-1 border">{props.category}</span>
       </td>

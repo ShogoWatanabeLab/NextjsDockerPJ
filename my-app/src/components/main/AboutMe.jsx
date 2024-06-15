@@ -6,7 +6,7 @@ const AboutMe = () => {
   return (
     <>
       {/* About Me */}
-      <section className="flex mb-16 bg-gray-100 p-8">
+      <section className="h-fit flex mb-16 bg-gray-100 p-8">
         <div>
           <SectionTitle text={"About Me"} style={""} />
           <Image
