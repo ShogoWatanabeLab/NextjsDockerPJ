@@ -1,8 +1,10 @@
 const NewsRow = (props) => {
   return (
     <tr>
-      <td>{props.date}</td>
-      <td>{props.category}</td>
+      <td className="p-2 text-center">{props.date}</td>
+      <td>
+        <span className="p-1 border">{props.category}</span>
+      </td>
       <td>{props.content}</td>
     </tr>
   );
